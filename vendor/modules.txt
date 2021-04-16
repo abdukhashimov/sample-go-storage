@@ -1,0 +1,4 @@
+# github.com/jmoiron/sqlx v1.3.3
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
